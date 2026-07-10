@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="#">
-        <img align="center" src="./asset/banner_4_1.png"/>
-    </a>
+  <img src="./asset/FullStack Developer.png" alt="Huu Loc Banner" width="100%" />
 </p>
 
 <p align="center">
