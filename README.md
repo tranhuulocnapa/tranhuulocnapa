@@ -73,21 +73,6 @@ I am currently focused on building **business management systems, SaaS platforms
 `Postman` · `RabbitMQ` · `Redis`
 
 
-## GitHub Stats
-
-<p align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"
-        alt="GitHub Stats"
-    />
-</p>
-
-<p align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"
-        alt="Top Languages"
-    />
-</p>
 
 ---
 
