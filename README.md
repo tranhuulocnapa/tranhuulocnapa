@@ -38,6 +38,7 @@ My focus includes:
 I am currently focused on building **business management systems, SaaS platforms, and internal operation tools** that help businesses manage operations more efficiently.
 
 ## Connect with me:
+- 🌐 Portfolio: [huuloc.com](portfolio-huuloc.vercel.app)
 - 📫 Email: [tranhuulocnapa@gmail.com](mailto:tranhuulocnapa@gmail.com)
 
 ## Languages & Technologies
